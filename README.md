@@ -5,5 +5,4 @@ With a wealth of experience and expertise, I specialize in creating dynamic and 
 My commitment to staying up-to-date with the latest industry trends ensures that I always deliver cutting-edge solutions that exceed your expectations. Let's collaborate to bring your vision to life and make your digital dreams a reality.
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![JavaScript](https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=White)
-
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)]
